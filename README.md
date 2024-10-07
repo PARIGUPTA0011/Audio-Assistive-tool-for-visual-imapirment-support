@@ -1,1 +1,1 @@
-# Object-Detection-for-Visual-Impairment-Support
+# Audio-Assistive-tool-for-Visual-Impairment-Support
